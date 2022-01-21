@@ -1,0 +1,7 @@
+﻿插件文档：
+https://github.com/parallax/jsPDF
+http://html2canvas.hertzen.com/
+
+例子：
+https://segmentfault.com/a/1190000009211079
+https://blog.csdn.net/qq_41434820/article/details/88029781
